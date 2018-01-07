@@ -1,0 +1,15 @@
+{
+	"description": "<p>XXX Трекер :: Порно Бесплатно и Без Регистрации!<p>Для дополнительной информации, посетите  <a href=\"http://xxx-tracker.com\">http://xxx-tracker.com</a>",
+	"author": "lprot", 
+	"homepage": "http://github.com/lprot/movian-plugin-xxxtracker",
+	"title": "XXX Tracker",
+	"synopsis": "XXX Трекер :: Порно Бесплатно и Без Регистрации!",
+	"version": "0.2.3",
+        "file": "xxx-tracker.js",
+	"showtimeVersion": "4.8",
+	"type": "ecmascript",
+	"icon": "logo.png",
+	"id": "xxx-tracker",
+	"category": "video",
+        "apiversion": 2
+}
